@@ -12,6 +12,8 @@ The cover letters have been sanitized to remove any meaningful personal informat
 
 These templates are free for anyone to use and modify.
 
+Fonts are included as well.
+
 - [View this project on Behance](https://www.behance.net/gallery/54087299/Cover-Letter-Templates)
 
 ## Contributing
